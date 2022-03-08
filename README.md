@@ -6,11 +6,11 @@
 
 To start the project, run following commands in your terminal to run this flask application:
 
-> git clone https://github.com/antoinefradin/Portfolio-Python-Flask-HTML-CSS-JS.git
-> python app.py
-
-> Navigate to http://127.0.0.1:5000 in a browser and that's it! 
-> Don't forget to type your Gmail user name and password in the appropriate text files.
+> git clone https://github.com/antoinefradin/Portfolio-Python-Flask-HTML-CSS-JS.git<br />
+> python app.py<br />
+><br />
+> Navigate to http://127.0.0.1:5000 in a browser and that's it! <br />
+> Don't forget to type your Gmail user name and password in the appropriate text files.<br />
 <br />
 
 
