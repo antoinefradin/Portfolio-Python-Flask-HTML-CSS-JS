@@ -10,19 +10,8 @@ To start the project, run following commands in your terminal to run this flask 
 > python app.py<br />
 ><br />
 > Navigate to http://127.0.0.1:5000 in a browser and that's it! <br />
-> Don't forget to type your Gmail user name and password in the appropriate text files.<br />
 <br />
 
-
-## 💻 Web Version 
-<p align="center">
-    <!--<img src="******" alt="web"/>-->
-</p>
-
-## 📱 Mobile Version
-<p align="center">
-    
-</p>
 
 
 ### **Sources** 
