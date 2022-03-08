@@ -1,7 +1,6 @@
 # **Responsive Python Flask/HTML/CSS/JS Portfolio Website**
 
-**Minimal responsive portfolio website design**<br />
-This is my portfolio.
+**Minimal responsive portfolio website design using Python Flask**<br />
 
 # 🚀 Starting
 
@@ -17,7 +16,7 @@ To start the project, run following commands in your terminal to run this flask 
 
 ## 💻 Web Version 
 <p align="center">
-    <!--<img src="https://github.com/antoinefradin/Reponsive-Blog-Cards-HTML-CSS/blob/main/img/Web_version.PNG" alt="web"/>-->
+    <!--<img src="******" alt="web"/>-->
 </p>
 
 ## 📱 Mobile Version
@@ -25,12 +24,6 @@ To start the project, run following commands in your terminal to run this flask 
     
 </p>
 
-
-### Go Futher
- <!--Darklight theme x
-        Scroll bar Dark Theme x
-        Media Queries... 
-    -->
 
 ### **Sources** 
 - _https://github.com/bedimcode/responsive-portfolio-website-Alexa_ 
